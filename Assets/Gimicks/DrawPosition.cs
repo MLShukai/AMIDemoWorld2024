@@ -22,6 +22,8 @@ public class DrawPosition : UdonSharpBehaviour
     private MeshRenderer _displayMaterial;
     [SerializeField]
     private Transform _testTransform;
+    [SerializeField, Tooltip("Draw time interval in seconds")]
+    private float _drawTimeInterval = 60f;
 
 
     private void Start()
@@ -43,5 +45,8 @@ public class DrawPosition : UdonSharpBehaviour
         _drawMaterial.material.SetVector("_UVPos", uvPosVector4);
         VRCGraphics.Blit(_renderTexture, _bufferTexture, _drawMaterial.material);
         VRCGraphics.Blit(_bufferTexture, _renderTexture);
+
+        _displayMaterial.material.SetFloat("_DrawInterval", _drawTimeInterval);
+        _displayMaterial.material.SetFloat("_CurrentTime", Time.time);
     }
 }
