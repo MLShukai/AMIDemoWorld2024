@@ -3,6 +3,8 @@ Shader "Unlit/DisplayPosition"
     Properties
     {
         _MainTex ("Texture", 2D) = "black" {}
+        _CurrentTime ("Current Time", Float) = 0
+        _DrawInterval ("Draw Time Interval", Float) = 1
     }
     SubShader
     {
@@ -31,8 +33,8 @@ Shader "Unlit/DisplayPosition"
 
             sampler2D _MainTex;
             float4 _MainTex_ST;
-            float4 _UVPos;
-            float _Scale;
+            float _CurrentTime;
+            float _DrawInterval;
 
             v2f vert (appdata v)
             {
@@ -51,7 +53,8 @@ Shader "Unlit/DisplayPosition"
             {
                 float col = tex2Dlod(_MainTex, float4(i.uv, 0, 0)).r;
                 clip (col == 0 ? -1 : 0);
-                return float4(hsv2rgb(col / _Time.y, 1, 1), 1);
+                clip(col - (_CurrentTime - _DrawInterval));
+                return float4(hsv2rgb(col / _DrawInterval, 1, 1), 1);
             }
             ENDCG
         }
