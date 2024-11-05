@@ -1,6 +1,6 @@
 # AMIDemoWorld
 
-バーチャル学会 2023 のデモワールドです。
+バーチャル学会 2024 のデモワールドです。
 
 ## Project Setup
 
@@ -9,7 +9,7 @@
 - Git
 - Git LFS
 - VRChat Creator Companion (VCC)
-- Unity 2019 4.31f1
+- Unity 2022.3.6f1
 
 ### プロジェクト開く手順
 
@@ -27,6 +27,7 @@ BOOTHやUnity Asset Storeで無料配布されているアセットの入手お�
 - iwaSync: BOOTHからダウンロードし、`iwaSync3_v*.*.*(U#1.0).unitypackage`をドラッグアンドドロップしてください。<https://booth.pm/ja/items/2666275>
 - UnaSlides: Boothからダウンロードし、Unity Packageをドラッグアンドドロップしてください。<https://booth.pm/ja/items/4141632>
 - Skybox Series Free: Unity Asset Storeからプロジェクトに追加してください。<https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633>
+-Lura's Switch【SDK2／SDK3／VCC】: VCC版をBoothからダウンロードし、Unity Packageをドラッグアンドドロップしてください。  <https://booth.pm/ja/items/1969082>
 
 ## ルール
 

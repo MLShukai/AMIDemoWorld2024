@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: DrawPosition
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: d0635af11469c574395c6d579fd10c1c,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 089d36aa1cdee6b40b1e8fc3fa1ab9ab,
     type: 2}
   udonAssembly: 
   assemblyError: 
