@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.0008095468, g: 0.004161891, b: 0.02006406, a: 1}
+  m_IndirectSpecularColor: {r: 0.00080954505, g: 0.004162026, b: 0.020064274, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -807,7 +807,7 @@ MonoBehaviour:
   AllowCollisionOwnershipTransfer: 1
   Reliable: 0
   _syncMethod: 2
-  serializedProgramAsset: {fileID: 11400000, guid: a97661bc5f78c264990fefa4eee7e1f0,
+  serializedProgramAsset: {fileID: 11400000, guid: 9bbeb90efb6b88f4c8a1ab7fcc791c7b,
     type: 2}
   programSource: {fileID: 11400000, guid: 25c396f75d5eecb41a5466fb2967351b, type: 2}
   serializedPublicVariablesBytesString: Ai8AAAAAATIAAABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlAFQAYQBiAGwAZQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AAAAAAAYBAAAAAAAAACcBBAAAAHQAeQBwAGUAAWgAAABTAHkAcwB0AGUAbQAuAEMAbwBsAGwAZQBjAHQAaQBvAG4AcwAuAEcAZQBuAGUAcgBpAGMALgBMAGkAcwB0AGAAMQBbAFsAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4ALgBJAG4AdABlAHIAZgBhAGMAZQBzAC4ASQBVAGQAbwBuAFYAYQByAGkAYQBiAGwAZQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AXQBdACwAIABtAHMAYwBvAHIAbABpAGIAAQEJAAAAVgBhAHIAaQBhAGIAbABlAHMALwEAAAABaAAAAFMAeQBzAHQAZQBtAC4AQwBvAGwAbABlAGMAdABpAG8AbgBzAC4ARwBlAG4AZQByAGkAYwAuAEwAaQBzAHQAYAAxAFsAWwBWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAEkAbgB0AGUAcgBmAGEAYwBlAHMALgBJAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlACwAIABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgBdAF0ALAAgAG0AcwBjAG8AcgBsAGkAYgABAAAABgEAAAAAAAAAAi8CAAAAAVMAAABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlAGAAMQBbAFsAVgBSAEMALgBVAGQAbwBuAC4AVQBkAG8AbgBCAGUAaABhAHYAaQBvAHUAcgAsACAAVgBSAEMALgBVAGQAbwBuAF0AXQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AAgAAAAYCAAAAAAAAACcBBAAAAHQAeQBwAGUAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAJwEKAAAAUwB5AG0AYgBvAGwATgBhAG0AZQABDAAAAHQAZQByAGUAcABvAFQAYQByAGcAZQB0ACcBBAAAAHQAeQBwAGUAASAAAABWAFIAQwAuAFUAZABvAG4ALgBVAGQAbwBuAEIAZQBoAGEAdgBpAG8AdQByACwAIABWAFIAQwAuAFUAZABvAG4ACwEFAAAAVgBhAGwAdQBlAAAAAAAHBQcFBwU=
@@ -967,7 +967,7 @@ GameObject:
   - component: {fileID: 212451522}
   - component: {fileID: 212451523}
   m_Layer: 0
-  m_Name: SystemPoster4
+  m_Name: ExperimentPoster4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1029,7 +1029,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4f1df1c51faf45a49ba81832b62b123f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4aadb9e30bce6214cb10ce129f78652b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1089,7 +1089,7 @@ MonoBehaviour:
   AllowCollisionOwnershipTransfer: 1
   Reliable: 0
   _syncMethod: 2
-  serializedProgramAsset: {fileID: 11400000, guid: 9bf34c27b1ac9254085b4dceac4c08f3,
+  serializedProgramAsset: {fileID: 11400000, guid: 0728b2a1823728746a1d0bc03b39220c,
     type: 2}
   programSource: {fileID: 11400000, guid: e65306ea00607c14c978bba19dd3d5ed, type: 2}
   serializedPublicVariablesBytesString: Ai8AAAAAATIAAABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlAFQAYQBiAGwAZQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AAAAAAAYBAAAAAAAAACcBBAAAAHQAeQBwAGUAAWgAAABTAHkAcwB0AGUAbQAuAEMAbwBsAGwAZQBjAHQAaQBvAG4AcwAuAEcAZQBuAGUAcgBpAGMALgBMAGkAcwB0AGAAMQBbAFsAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4ALgBJAG4AdABlAHIAZgBhAGMAZQBzAC4ASQBVAGQAbwBuAFYAYQByAGkAYQBiAGwAZQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AXQBdACwAIABtAHMAYwBvAHIAbABpAGIAAQEJAAAAVgBhAHIAaQBhAGIAbABlAHMALwEAAAABaAAAAFMAeQBzAHQAZQBtAC4AQwBvAGwAbABlAGMAdABpAG8AbgBzAC4ARwBlAG4AZQByAGkAYwAuAEwAaQBzAHQAYAAxAFsAWwBWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAEkAbgB0AGUAcgBmAGEAYwBlAHMALgBJAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlACwAIABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgBdAF0ALAAgAG0AcwBjAG8AcgBsAGkAYgABAAAABgAAAAAAAAAABwUHBQ==
@@ -1279,7 +1279,7 @@ MonoBehaviour:
   AllowCollisionOwnershipTransfer: 1
   Reliable: 0
   _syncMethod: 2
-  serializedProgramAsset: {fileID: 11400000, guid: 9bf34c27b1ac9254085b4dceac4c08f3,
+  serializedProgramAsset: {fileID: 11400000, guid: 0728b2a1823728746a1d0bc03b39220c,
     type: 2}
   programSource: {fileID: 11400000, guid: e65306ea00607c14c978bba19dd3d5ed, type: 2}
   serializedPublicVariablesBytesString: Ai8AAAAAATIAAABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlAFQAYQBiAGwAZQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AAAAAAAYBAAAAAAAAACcBBAAAAHQAeQBwAGUAAWgAAABTAHkAcwB0AGUAbQAuAEMAbwBsAGwAZQBjAHQAaQBvAG4AcwAuAEcAZQBuAGUAcgBpAGMALgBMAGkAcwB0AGAAMQBbAFsAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4ALgBJAG4AdABlAHIAZgBhAGMAZQBzAC4ASQBVAGQAbwBuAFYAYQByAGkAYQBiAGwAZQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AXQBdACwAIABtAHMAYwBvAHIAbABpAGIAAQEJAAAAVgBhAHIAaQBhAGIAbABlAHMALwEAAAABaAAAAFMAeQBzAHQAZQBtAC4AQwBvAGwAbABlAGMAdABpAG8AbgBzAC4ARwBlAG4AZQByAGkAYwAuAEwAaQBzAHQAYAAxAFsAWwBWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAEkAbgB0AGUAcgBmAGEAYwBlAHMALgBJAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlACwAIABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgBdAF0ALAAgAG0AcwBjAG8AcgBsAGkAYgABAAAABgAAAAAAAAAABwUHBQ==
@@ -1441,7 +1441,7 @@ GameObject:
   - component: {fileID: 393844259}
   - component: {fileID: 393844260}
   m_Layer: 0
-  m_Name: SystemPoster4
+  m_Name: KoukishinPoster4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1503,7 +1503,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4f1df1c51faf45a49ba81832b62b123f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9fab5b93fe1179d428ba13d2783b86ce, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1525,7 +1525,7 @@ GameObject:
   - component: {fileID: 411236152}
   - component: {fileID: 411236153}
   m_Layer: 0
-  m_Name: SystemPoster2
+  m_Name: KoukishinPoster2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1587,7 +1587,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4a665158f2732e24797a0d25613ea3d8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2f3022b340f87354194bf7df3a05be68, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1790,7 +1790,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4f1df1c51faf45a49ba81832b62b123f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b3e1da4e25c230a41bed663c3ea796cb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2301,7 +2301,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 1c0d1f5934f991f4ea275eba9b521c09,
+      objectReference: {fileID: 11400000, guid: 4486ef807402a57488a075baf3d82688,
         type: 2}
     - target: {fileID: 5277483211832163879, guid: 53cd56410d96bc44a91930d31e2a51fb,
         type: 3}
@@ -4258,7 +4258,7 @@ GameObject:
   m_Component:
   - component: {fileID: 761857741}
   m_Layer: 0
-  m_Name: SystemPoster (1)
+  m_Name: KoukishinPoster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4361,7 +4361,7 @@ GameObject:
   - component: {fileID: 817074141}
   - component: {fileID: 817074142}
   m_Layer: 0
-  m_Name: SystemPoster4
+  m_Name: ModelPoster1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4375,13 +4375,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 817074140}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 75, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1454838837}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!212 &817074142
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4423,7 +4423,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4f1df1c51faf45a49ba81832b62b123f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b3f9aa471457b8b4d89f824746701e2e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4457,7 +4457,7 @@ GameObject:
   - component: {fileID: 848190545}
   - component: {fileID: 848190546}
   m_Layer: 0
-  m_Name: SystemPoster2
+  m_Name: ModelPoster3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4471,13 +4471,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 848190544}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 25, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1454838837}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!212 &848190546
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4519,7 +4519,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4a665158f2732e24797a0d25613ea3d8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5cd24677b0854c34193e557531c087af, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4919,7 +4919,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 1c0d1f5934f991f4ea275eba9b521c09,
+      objectReference: {fileID: 11400000, guid: 4486ef807402a57488a075baf3d82688,
         type: 2}
     - target: {fileID: 5277483211832163879, guid: 53cd56410d96bc44a91930d31e2a51fb,
         type: 3}
@@ -5241,7 +5241,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 9fc76b51354083946aa094d2128f5317,
+      objectReference: {fileID: 11400000, guid: ade2baa465583134a9fd7c8b6bc1a61f,
         type: 2}
     - target: {fileID: 6759095419728963412, guid: 8894fa7e4588a5c4fab98453e558847d,
         type: 3}
@@ -8937,7 +8937,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3705f62326f96f84c8b6c05f17eb82f5,
+      objectReference: {fileID: 11400000, guid: 97b902cc00983c2409d22cab53e98684,
         type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9196,7 +9196,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: deffe47c5ec01a140814a7217892e948,
+      objectReference: {fileID: 11400000, guid: 32a33a4324c4b094b8215cd5b18b8515,
         type: 2}
     - target: {fileID: 1589705762545984159, guid: 9df0a3606e198e846a6c0052745f5996,
         type: 3}
@@ -9282,7 +9282,7 @@ GameObject:
   - component: {fileID: 1061868034}
   - component: {fileID: 1061868035}
   m_Layer: 0
-  m_Name: SystemPoster1
+  m_Name: ExperimentPoster1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9344,7 +9344,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4f1df1c51faf45a49ba81832b62b123f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 55c8bd54aac252644a762536767c8200, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -9372,7 +9372,7 @@ GameObject:
   - component: {fileID: 1080964194}
   - component: {fileID: 1080964195}
   m_Layer: 0
-  m_Name: SystemPoster3
+  m_Name: ExperimentPoster3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9434,7 +9434,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1b04aebf795bb834795ae8b38c1376c9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 32ca112667089a04f9e52a3baec1b21f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -9573,7 +9573,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: deffe47c5ec01a140814a7217892e948,
+      objectReference: {fileID: 11400000, guid: 32a33a4324c4b094b8215cd5b18b8515,
         type: 2}
     - target: {fileID: 1589705762545984159, guid: 9df0a3606e198e846a6c0052745f5996,
         type: 3}
@@ -9860,7 +9860,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: deffe47c5ec01a140814a7217892e948,
+      objectReference: {fileID: 11400000, guid: 32a33a4324c4b094b8215cd5b18b8515,
         type: 2}
     - target: {fileID: 1589705762545984159, guid: 9df0a3606e198e846a6c0052745f5996,
         type: 3}
@@ -10421,7 +10421,7 @@ GameObject:
   - component: {fileID: 1215381448}
   - component: {fileID: 1215381449}
   m_Layer: 0
-  m_Name: SystemPoster3
+  m_Name: ModelPoster2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10435,13 +10435,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1215381447}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 50, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1454838837}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!212 &1215381449
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10483,7 +10483,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1b04aebf795bb834795ae8b38c1376c9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2b13d8c6912e6d541ab32dfc2bda984e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -10622,7 +10622,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: deffe47c5ec01a140814a7217892e948,
+      objectReference: {fileID: 11400000, guid: 32a33a4324c4b094b8215cd5b18b8515,
         type: 2}
     - target: {fileID: 1589705762545984159, guid: 9df0a3606e198e846a6c0052745f5996,
         type: 3}
@@ -11134,7 +11134,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: deffe47c5ec01a140814a7217892e948,
+      objectReference: {fileID: 11400000, guid: 32a33a4324c4b094b8215cd5b18b8515,
         type: 2}
     - target: {fileID: 1589705762545984159, guid: 9df0a3606e198e846a6c0052745f5996,
         type: 3}
@@ -11287,7 +11287,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: deffe47c5ec01a140814a7217892e948,
+      objectReference: {fileID: 11400000, guid: 32a33a4324c4b094b8215cd5b18b8515,
         type: 2}
     - target: {fileID: 1589705762545984159, guid: 9df0a3606e198e846a6c0052745f5996,
         type: 3}
@@ -11457,7 +11457,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4f1df1c51faf45a49ba81832b62b123f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4eec139eacf38dd4b96503dcea19c7b5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -11670,7 +11670,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1454838837}
   m_Layer: 0
-  m_Name: SystemPoster (2)
+  m_Name: ModelPoster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11689,10 +11689,10 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.20000003, z: 0.2}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 2060888542}
-  - {fileID: 848190545}
-  - {fileID: 1215381448}
   - {fileID: 817074141}
+  - {fileID: 1215381448}
+  - {fileID: 848190545}
+  - {fileID: 2060888542}
   m_Father: {fileID: 3587102732449547474}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1465197633
@@ -11706,7 +11706,7 @@ GameObject:
   - component: {fileID: 1465197634}
   - component: {fileID: 1465197635}
   m_Layer: 0
-  m_Name: SystemPoster3
+  m_Name: KoukishinPoster3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11768,7 +11768,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1b04aebf795bb834795ae8b38c1376c9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8d33e132dd243244c9da28f78accb2a6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -11790,7 +11790,7 @@ GameObject:
   - component: {fileID: 1495459356}
   - component: {fileID: 1495459357}
   m_Layer: 0
-  m_Name: SystemPoster2
+  m_Name: ExperimentPoster2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11852,7 +11852,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4a665158f2732e24797a0d25613ea3d8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cfc6ae8a16f996e488b1e19157ddba76, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -11946,7 +11946,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 8cd3debef0185a14da3c0d6394d413fc,
+      objectReference: {fileID: 11400000, guid: 5d8752c9c709a624da7d8fc660623313,
         type: 2}
     - target: {fileID: 1922781439907971806, guid: 38cf07f13826c75489badbc42ae334f8,
         type: 3}
@@ -12032,7 +12032,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 623547662f2498d45b2897ec7a3b68c5,
+      objectReference: {fileID: 11400000, guid: a3d6875f02fdc0a48a229e0ba81c8ccb,
         type: 2}
     - target: {fileID: 5716908730860652442, guid: 38cf07f13826c75489badbc42ae334f8,
         type: 3}
@@ -12055,7 +12055,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 40fc9dc957d2fe74181103918339206d,
+      objectReference: {fileID: 11400000, guid: 3b85201927092f34985f0892fb4fd98d,
         type: 2}
     - target: {fileID: 7630020048124483856, guid: 38cf07f13826c75489badbc42ae334f8,
         type: 3}
@@ -12086,7 +12086,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: c7aad94466bf2d142b57261efe4615dd,
+      objectReference: {fileID: 11400000, guid: 62e781e7607ba9c49b368154e604d918,
         type: 2}
     - target: {fileID: 8463750585492152240, guid: 38cf07f13826c75489badbc42ae334f8,
         type: 3}
@@ -12169,7 +12169,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 9cceae635c20408439e3da302519aa81,
+      objectReference: {fileID: 11400000, guid: 38ba82cd82aaf6f43b26c472234b57a7,
         type: 2}
     - target: {fileID: 8735145714206734377, guid: 38cf07f13826c75489badbc42ae334f8,
         type: 3}
@@ -12302,7 +12302,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1b04aebf795bb834795ae8b38c1376c9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: be74005102ec1ec4db2e7d51465bac73, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -12599,7 +12599,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 1c0d1f5934f991f4ea275eba9b521c09,
+      objectReference: {fileID: 11400000, guid: 4486ef807402a57488a075baf3d82688,
         type: 2}
     - target: {fileID: 5277483211832163879, guid: 53cd56410d96bc44a91930d31e2a51fb,
         type: 3}
@@ -12754,7 +12754,7 @@ MonoBehaviour:
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
   _syncMethod: 2
-  serializedProgramAsset: {fileID: 11400000, guid: 8920e7190ee6d584e9579baf7d17662d,
+  serializedProgramAsset: {fileID: 11400000, guid: b3cc169d3a2c1934990bd3bbdf141bd4,
     type: 2}
   programSource: {fileID: 11400000, guid: 6db37aa12d58e4742955faf87420e646, type: 2}
   serializedPublicVariablesBytesString: Ai8AAAAAATIAAABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlAFQAYQBiAGwAZQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AAAAAAAYBAAAAAAAAACcBBAAAAHQAeQBwAGUAAWgAAABTAHkAcwB0AGUAbQAuAEMAbwBsAGwAZQBjAHQAaQBvAG4AcwAuAEcAZQBuAGUAcgBpAGMALgBMAGkAcwB0AGAAMQBbAFsAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4ALgBJAG4AdABlAHIAZgBhAGMAZQBzAC4ASQBVAGQAbwBuAFYAYQByAGkAYQBiAGwAZQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AXQBdACwAIABtAHMAYwBvAHIAbABpAGIAAQEJAAAAVgBhAHIAaQBhAGIAbABlAHMALwEAAAABaAAAAFMAeQBzAHQAZQBtAC4AQwBvAGwAbABlAGMAdABpAG8AbgBzAC4ARwBlAG4AZQByAGkAYwAuAEwAaQBzAHQAYAAxAFsAWwBWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAEkAbgB0AGUAcgBmAGEAYwBlAHMALgBJAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlACwAIABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgBdAF0ALAAgAG0AcwBjAG8AcgBsAGkAYgABAAAABgIAAAAAAAAAAi8CAAAAAUwAAABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlAGAAMQBbAFsAUwB5AHMAdABlAG0ALgBTAHQAcgBpAG4AZwBbAF0ALAAgAG0AcwBjAG8AcgBsAGkAYgBdAF0ALAAgAFYAUgBDAC4AVQBkAG8AbgAuAEMAbwBtAG0AbwBuAAIAAAAGAgAAAAAAAAAnAQQAAAB0AHkAcABlAAEXAAAAUwB5AHMAdABlAG0ALgBTAHQAcgBpAG4AZwAsACAAbQBzAGMAbwByAGwAaQBiACcBCgAAAFMAeQBtAGIAbwBsAE4AYQBtAGUAARwAAABfAHQAYQByAGcAZQB0AFAAbABhAHkAZQByAEQAaQBzAHAAbABhAHkATgBhAG0AZQBMAGkAcwB0ACcBBAAAAHQAeQBwAGUAARkAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnAFsAXQAsACAAbQBzAGMAbwByAGwAaQBiAAEBBQAAAFYAYQBsAHUAZQAvAwAAAAEZAAAAUwB5AHMAdABlAG0ALgBTAHQAcgBpAG4AZwBbAF0ALAAgAG0AcwBjAG8AcgBsAGkAYgADAAAABgAAAAAAAAAABwUHBQIvBAAAAAFJAAAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4ALgBVAGQAbwBuAFYAYQByAGkAYQBiAGwAZQBgADEAWwBbAFMAeQBzAHQAZQBtAC4ASQBuAHQAMwAyACwAIABtAHMAYwBvAHIAbABpAGIAXQBdACwAIABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAEAAAABgIAAAAAAAAAJwEEAAAAdAB5AHAAZQABFwAAAFMAeQBzAHQAZQBtAC4AUwB0AHIAaQBuAGcALAAgAG0AcwBjAG8AcgBsAGkAYgAnAQoAAABTAHkAbQBiAG8AbABOAGEAbQBlAAEfAAAAXwBfAF8AVQBkAG8AbgBTAGgAYQByAHAAQgBlAGgAYQB2AGkAbwB1AHIAVgBlAHIAcwBpAG8AbgBfAF8AXwAnAQQAAAB0AHkAcABlAAEWAAAAUwB5AHMAdABlAG0ALgBJAG4AdAAzADIALAAgAG0AcwBjAG8AcgBsAGkAYgAXAQUAAABWAGEAbAB1AGUAAgAAAAcFBwUHBQ==
@@ -13296,7 +13296,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 93244074fbdc6de4b985af0c813ff0e4,
+      objectReference: {fileID: 11400000, guid: 5b18b777fd31c794ebcfb8a81eb4f92e,
         type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13387,7 +13387,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 40fc9dc957d2fe74181103918339206d,
+      objectReference: {fileID: 11400000, guid: 3b85201927092f34985f0892fb4fd98d,
         type: 2}
     - target: {fileID: 6871898604749012724, guid: 8ddaee247f474db498217dcd67b66c73,
         type: 3}
@@ -13843,7 +13843,7 @@ MonoBehaviour:
   AllowCollisionOwnershipTransfer: 1
   Reliable: 0
   _syncMethod: 2
-  serializedProgramAsset: {fileID: 11400000, guid: a97661bc5f78c264990fefa4eee7e1f0,
+  serializedProgramAsset: {fileID: 11400000, guid: 9bbeb90efb6b88f4c8a1ab7fcc791c7b,
     type: 2}
   programSource: {fileID: 11400000, guid: 25c396f75d5eecb41a5466fb2967351b, type: 2}
   serializedPublicVariablesBytesString: Ai8AAAAAATIAAABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlAFQAYQBiAGwAZQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AAAAAAAYBAAAAAAAAACcBBAAAAHQAeQBwAGUAAWgAAABTAHkAcwB0AGUAbQAuAEMAbwBsAGwAZQBjAHQAaQBvAG4AcwAuAEcAZQBuAGUAcgBpAGMALgBMAGkAcwB0AGAAMQBbAFsAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4ALgBJAG4AdABlAHIAZgBhAGMAZQBzAC4ASQBVAGQAbwBuAFYAYQByAGkAYQBiAGwAZQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AXQBdACwAIABtAHMAYwBvAHIAbABpAGIAAQEJAAAAVgBhAHIAaQBhAGIAbABlAHMALwEAAAABaAAAAFMAeQBzAHQAZQBtAC4AQwBvAGwAbABlAGMAdABpAG8AbgBzAC4ARwBlAG4AZQByAGkAYwAuAEwAaQBzAHQAYAAxAFsAWwBWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAEkAbgB0AGUAcgBmAGEAYwBlAHMALgBJAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlACwAIABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgBdAF0ALAAgAG0AcwBjAG8AcgBsAGkAYgABAAAABgEAAAAAAAAAAi8CAAAAAVMAAABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAFUAZABvAG4AVgBhAHIAaQBhAGIAbABlAGAAMQBbAFsAVgBSAEMALgBVAGQAbwBuAC4AVQBkAG8AbgBCAGUAaABhAHYAaQBvAHUAcgAsACAAVgBSAEMALgBVAGQAbwBuAF0AXQAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AAgAAAAYCAAAAAAAAACcBBAAAAHQAeQBwAGUAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAJwEKAAAAUwB5AG0AYgBvAGwATgBhAG0AZQABDAAAAHQAZQByAGUAcABvAFQAYQByAGcAZQB0ACcBBAAAAHQAeQBwAGUAASAAAABWAFIAQwAuAFUAZABvAG4ALgBVAGQAbwBuAEIAZQBoAGEAdgBpAG8AdQByACwAIABWAFIAQwAuAFUAZABvAG4ACwEFAAAAVgBhAGwAdQBlAAAAAAAHBQcFBwU=
@@ -14118,7 +14118,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 2615c60d37323884d9db11ca6a4ca134,
+      objectReference: {fileID: 11400000, guid: 4b5508a39df3c1e4594f649e9ee09d9f,
         type: 2}
     - target: {fileID: 633905740555316807, guid: b09260b8ea260e648846a40ad31b254c,
         type: 3}
@@ -14541,7 +14541,7 @@ GameObject:
   - component: {fileID: 1987729064}
   - component: {fileID: 1987729065}
   m_Layer: 0
-  m_Name: SystemPoster1
+  m_Name: KoukishinPoster1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14603,7 +14603,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4f1df1c51faf45a49ba81832b62b123f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f3b2e10e3d9cc77458c8859f24153513, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -14783,7 +14783,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4a665158f2732e24797a0d25613ea3d8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 64e98282a5901e5459e9809948179be5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -14844,7 +14844,7 @@ GameObject:
   - component: {fileID: 2060888542}
   - component: {fileID: 2060888543}
   m_Layer: 0
-  m_Name: SystemPoster1
+  m_Name: ModelPoster4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14858,13 +14858,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2060888541}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1454838837}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!212 &2060888543
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14906,7 +14906,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4f1df1c51faf45a49ba81832b62b123f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8bab36d88095efe4d9e6d67c93918353, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -15050,7 +15050,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2099753698}
   m_Layer: 0
-  m_Name: SystemPoster
+  m_Name: ExperimentPoster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15226,7 +15226,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: e985525bcdf103048a349f277f0e6ee6,
+      objectReference: {fileID: 11400000, guid: 089d36aa1cdee6b40b1e8fc3fa1ab9ab,
         type: 2}
     - target: {fileID: 4089703377422284629, guid: 6d442d676c92ac047affbad8c4904ff9,
         type: 3}
